@@ -8,3 +8,25 @@ Given an array of integers, return **indices** of the two numbers such that they
 
 You may assume that each input would have **exactly** one solution, and you may not use the *same* element twice.
 
+##### 이두희
+
+![KakaoTalk_Photo_2018-09-18-06-25-40](AlgorithmSolving/leetCode/1. Two Sum/resource/KakaoTalk_Photo_2018-09-18-06-25-40.jpeg)
+
+##### 곽도영
+
+![KakaoTalk_Photo_2018-09-18-06-25-57](AlgorithmSolving/leetCode/1. Two Sum/resource/KakaoTalk_Photo_2018-09-18-06-25-57.jpeg)
+
+### 2. Add Two Numbers
+
+You are given two **non-empty** linked lists representing two non-negative integers. The digits are stored in **reverse order** and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
+
+You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+
+##### 이두희
+
+![KakaoTalk_Photo_2018-09-18-06-25-26](AlgorithmSolving/leetCode/2.%20Add%20Two%20Numbers/resource/KakaoTalk_Photo_2018-09-18-06-25-26.png)
+
+##### 곽도영
+
+![KakaoTalk_Photo_2018-09-18-06-25-05](2. Add Two Numbers/resource/KakaoTalk_Photo_2018-09-18-06-25-05.png)
+
