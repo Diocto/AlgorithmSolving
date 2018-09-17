@@ -10,11 +10,11 @@ You may assume that each input would have **exactly** one solution, and you may 
 
 ##### 이두희
 
-![KakaoTalk_Photo_2018-09-18-06-25-40](leetCode1/2.%20Add%20Two%20Numbers/resource/KakaoTalk_Photo_2018-09-18-06-25-40.jpeg)
+![KakaoTalk_Photo_2018-09-18-06-25-40](leetCode/1.%20Two%20Sum/resource/KakaoTalk_Photo_2018-09-18-06-25-40.jpeg)
 
 ##### 곽도영
 
-![KakaoTalk_Photo_2018-09-18-06-25-57](leetCode1/2.%20Add%20Two%20Numbers/resource/KakaoTalk_Photo_2018-09-18-06-25-57.jpeg)
+![KakaoTalk_Photo_2018-09-18-06-25-57](leetCode/1.%20Two%20Sum/resource/KakaoTalk_Photo_2018-09-18-06-25-57.jpeg)
 
 ### 2. Add Two Numbers
 
@@ -24,9 +24,9 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 ##### 이두희
 
-![KakaoTalk_Photo_2018-09-18-06-25-26](leetCode1/2.%20Add%20Two%20Numbers/resource/KakaoTalk_Photo_2018-09-18-06-25-26.png)
+![KakaoTalk_Photo_2018-09-18-06-25-26](leetCode/2.%20Add%20Two%20Numbers/resource/KakaoTalk_Photo_2018-09-18-06-25-26.png)
 
 ##### 곽도영
 
-![KakaoTalk_Photo_2018-09-18-06-25-05](leetCode1/2.%20Add%20Two%20Numbers/resource/KakaoTalk_Photo_2018-09-18-06-25-05.png)
+![KakaoTalk_Photo_2018-09-18-06-25-05](leetCode/2.%20Add%20Two%20Numbers/resource/KakaoTalk_Photo_2018-09-18-06-25-05.png)
 
