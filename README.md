@@ -56,4 +56,4 @@ Memoization은 <이전에 뺀 동전, 현재 amount> 로 저장해 불러들었�
 
 C++ : INT_MAX 를 + 연산으로 string에 넣으니 알수없는 런타임 에러가 발생함, string.append() 를 이용하는게 안전해 보인다.
 
-![summaryRangesDuhee](leetCode/4.%20Summary%02Ranges/resource/duhee.png)
+![summaryRangesDuhee](leetCode/4.%20Summary%20Ranges/resource/duhee.png)
