@@ -4,7 +4,7 @@
 
 ### 1. Two Sum
 
-[See description](https://leetcode.com/problems/two-sum/description/)
+[문제 설명](https://leetcode.com/problems/two-sum/description/)
 
 ##### 이두희
 
@@ -16,7 +16,7 @@
 
 ### 2. Add Two Numbers
 
-[See description](https://leetcode.com/problems/add-two-numbers/description/)
+[문제 설명](https://leetcode.com/problems/add-two-numbers/description/)
 
 
 ##### 이두희
@@ -29,7 +29,7 @@
 
 ### 3. Coin Change 2
 
-[See description](https://leetcode.com/problems/coin-change-2/description/)
+[문제 설명](https://leetcode.com/problems/coin-change-2/description/)
 
 ##### 이두희
 
@@ -41,7 +41,7 @@ Memoization은 <이전에 뺀 동전, 현재 amount> 로 저장해 불러들었�
 
 ### 4. Summary Ranges
 
-[See description](https://leetcode.com/problems/summary-ranges/)
+[문제 설명](https://leetcode.com/problems/summary-ranges/)
 
 ##### 이두희
 
