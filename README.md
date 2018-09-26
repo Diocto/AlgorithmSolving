@@ -50,3 +50,13 @@ Memoization은 <이전에 뺀 동전, 현재 amount> 로 저장해 불러들었�
 C++ : INT_MAX 를 + 연산으로 string에 넣으니 알수없는 런타임 에러가 발생함, string.append() 를 이용하는게 안전해 보인다.
 
 ![summaryRangesDuhee](leetCode/4.%20Summary%20Ranges/resource/duhee.png)
+
+### 5. Construct-binary-tree-from-inorder-and-postorder-traversal
+
+[문제 설명](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+
+##### 이두희
+
+postorder가 서브트리의 루트노드가 맨 나중에 나온다는 점을 이용해서 inorder에서 좌우 서브트리를 찾을 수 있음을 이용해서 재귀로 해결.
+
+![summaryRangesDuhee](leetCode/5.%20Construct%20Binary%20Tree%20from%20order/resource/duhee.png)
