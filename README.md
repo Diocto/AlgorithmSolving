@@ -70,3 +70,13 @@ postorder가 서브트리의 루트노드가 맨 나중에 나온다는 점을 �
 0 이전의 값들이 멀어질수록 1, 2, 3, 4, ... 이하인 경우이면 false
 
 ![JumpGame Duhee](leetCode/6.%20Jump%20Game/resource/duhee.png)
+
+### 7. 01 Matrix
+
+[문제 설명](https://leetcode.com/problems/01-matrix/)
+
+##### 이두희
+
+0부터 BFS 방식을 이용해 사방으로 값을 늘려감. 
+
+![01MatrixDuhee](leetCode/7.%2001%20Matrix/resource/duhee.png))
