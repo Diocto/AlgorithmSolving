@@ -59,4 +59,14 @@ C++ : INT_MAX 를 + 연산으로 string에 넣으니 알수없는 런타임 에�
 
 postorder가 서브트리의 루트노드가 맨 나중에 나온다는 점을 이용해서 inorder에서 좌우 서브트리를 찾을 수 있음을 이용해서 재귀로 해결.
 
-![summaryRangesDuhee](leetCode/5.%20Construct%20Binary%20Tree%20from%20order/resource/duhee.png)
+![ConstructTree Duhee](leetCode/5.%20Construct%20Binary%20Tree%20from%20order/resource/duhee.png)
+
+### 6. Jump Game
+
+[문제 설명](https://leetcode.com/problems/jump-game/)
+
+##### 이두희
+
+0 이전의 값들이 멀어질수록 1, 2, 3, 4, ... 이하인 경우이면 false
+
+![JumpGame Duhee](leetCode/6.%20Jump%20Game/resource/duhee.png)
