@@ -79,4 +79,4 @@ postorder가 서브트리의 루트노드가 맨 나중에 나온다는 점을 �
 
 0부터 BFS 방식을 이용해 사방으로 값을 늘려감. 
 
-![01MatrixDuhee](leetCode/7.%2001%20Matrix/resource/duhee.png))
+![01MatrixDuhee](leetCode/7.%2001%20Matrix/resource/duhee.png)
