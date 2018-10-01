@@ -101,3 +101,12 @@ C++의 STL reverse를 활용해서 풂.
 
 ![ReverseWordsInAString3](leetCode/9.%20Reverse%20Words%20in%20a%20String%20III/resource/duhee.png)
 
+### 10. Sort Colors
+
+[문제 설명](https://leetcode.com/problems/sort-colors/)
+
+##### 이두희
+
+Counting sort 알고리즘 이용.
+
+![SortColors](leetCode/10.%20Sort%20Colors/resource/duhee.png)
