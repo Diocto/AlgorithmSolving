@@ -120,3 +120,14 @@ Counting sort 알고리즘 이용.
 set을 이용해 해결
 
 ![gosesduhee](leetCode/011.Groups_of_Special-Equivalent_Strings/resource/duhee.png)
+
+### 12. Subsets
+
+[문제 설명](https://leetcode.com/problems/subsets/)
+
+##### 이두희
+
+next_permutation 함수를 활용해 해결.
+
+![subsetsduhee](leetCode/012.Subsets/resource/duhee.png))
+
