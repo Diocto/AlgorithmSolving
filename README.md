@@ -129,5 +129,14 @@ set을 이용해 해결
 
 next_permutation 함수를 활용해 해결.
 
-![subsetsduhee](leetCode/012.Subsets/resource/duhee.png))
+![subsetsduhee](leetCode/012.Subsets/resource/duhee.png)
 
+### 13. Russian Doll Envelopes
+
+[문제 설명](https://leetcode.com/problems/russian-doll-envelopes/)
+
+#### 이두희
+
+LIS(Longest Increasing Subsequence)를 구하는 알고리즘으로 N^2의 속도로 해결
+
+![RussianDollDuhee](leetCode/013.Russian_Doll_Envelopes/resource/duhee.png)
