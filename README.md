@@ -135,8 +135,18 @@ next_permutation 함수를 활용해 해결.
 
 [문제 설명](https://leetcode.com/problems/russian-doll-envelopes/)
 
-#### 이두희
+##### 이두희
 
 LIS(Longest Increasing Subsequence)를 구하는 알고리즘으로 N^2의 속도로 해결
 
 ![RussianDollDuhee](leetCode/013.Russian_Doll_Envelopes/resource/duhee.png)
+
+### 14. Diameter of Binary Tree
+
+[문제 설명](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+##### 이두희
+
+재귀 함수 호출을 활용해 풀었음, 속도 개선을 위해 다른 답 참고함.
+
+![DiameterDuhee](LeetCode/014.DiaMeter_of_Binary_Tree/resource/duhee.jpeg)
