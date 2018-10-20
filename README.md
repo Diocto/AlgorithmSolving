@@ -149,4 +149,4 @@ LIS(Longest Increasing Subsequence)를 구하는 알고리즘으로 N^2의 속�
 
 재귀 함수 호출을 활용해 풀었음, 속도 개선을 위해 다른 답 참고함.
 
-![DiameterDuhee](leetCode/014.DiaMeter_of_Binary_Tree/resource/duhee.jpeg)
+![DiameterDuhee](leetCode/014.Diameter_of_Binary_Tree/resource/duhee.jpeg)
