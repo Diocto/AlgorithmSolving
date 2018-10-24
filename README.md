@@ -150,3 +150,14 @@ LIS(Longest Increasing Subsequence)를 구하는 알고리즘으로 N^2의 속�
 재귀 함수 호출을 활용해 풀었음, 속도 개선을 위해 다른 답 참고함.
 
 ![DiameterDuhee](leetCode/014.Diameter_of_Binary_Tree/resource/duhee.jpeg)
+
+
+### 15. Counting Bits
+
+[문제 설명](https://leetcode.com/problems/counting-bits/)
+
+##### 이두희
+
+직접 1의 갯수를 적어 보고 패턴을 발견해 문제 해결.
+
+![CuntBduhee](leetCode/015.Counting_Bits/resource/duhee.png)
