@@ -160,4 +160,4 @@ LIS(Longest Increasing Subsequence)를 구하는 알고리즘으로 N^2의 속�
 
 직접 1의 갯수를 적어 보고 패턴을 발견해 문제 해결.
 
-![CuntBduhee](leetCode/015.Counting_Bits/resource/duhee.png)
+![CuntBduhee](leetCode/015.Counting_Bits/resoruce/duhee.png)
