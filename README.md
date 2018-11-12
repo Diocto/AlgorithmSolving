@@ -160,4 +160,9 @@ LIS(Longest Increasing Subsequence)를 구하는 알고리즘으로 N^2의 속�
 
 직접 1의 갯수를 적어 보고 패턴을 발견해 문제 해결.
 
-![CuntBduhee](leetCode/015.Counting_Bits/resource/duhee.png)
+### 16. Unique Binary Search Trees II
+
+[문제 설명](https://leetcode.com/problems/unique-binary-search-trees-ii)
+
+동적 계획법으로 풀이. 분할정복 기법으로 해결함. 토론 게시판 해법을 보고도 이해가 안가 직접 그려가며 이해할 수 있었음. 딕셔너리를 활용해 시간복잡도를 개선.
+딕셔너리 활용 시 99%, 미활용시 19% 정도의 속도가 나옴.
